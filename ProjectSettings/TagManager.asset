@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Bullet
+  - Enemy
+  - GOS
+  - Ko
+  - Cizgi
+  - Skull
+  - SK_Bullet
+  - Booster
+  - ThmSlider
+  - SndSlider
+  - ThemeMusic
+  - btnPlay
+  - btnOpt
+  - MainMenu
+  - OptMenu
+  - LevelLoader
+  - GecisReklam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lava
+    uniqueID: 467330473
+    locked: 0
+  - name: Background
+    uniqueID: 3221524691
+    locked: 0
+  - name: Platform
+    uniqueID: 3241323399
+    locked: 0
+  - name: Canvas
+    uniqueID: 2424302639
+    locked: 0
+  - name: Player
+    uniqueID: 1564188067
+    locked: 0
+  - name: Bullet
+    uniqueID: 1824318825
+    locked: 0
+  - name: Snow
+    uniqueID: 3742629
+    locked: 0
