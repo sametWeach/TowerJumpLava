@@ -1,10 +1,7 @@
 # TowerJumpLava
 Tower Jump Lava - Unity Mobile 2D game
 ###### ----------------------------------------------------------------------------------------------------------------------------
-![towerPNG](https://user-images.githubusercontent.com/42150041/223581535-738aa651-9e9e-4fba-818d-4d2c8782d0d3.png)
 
-
-###### ----------------------------------------------------------------------------------------------------------------------------
 
 Tower jump - Lava oyunu zıplayarak en yüksek skoru yapmaya çalıştığınız bir oyun.
 
